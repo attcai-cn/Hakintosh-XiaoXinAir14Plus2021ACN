@@ -5,7 +5,7 @@ EFI for 小新Air 14 Plus 2021 ACN/IdeaPad 5 Pro 14 ACN
 引入 https://github.com/steve12311/NootedRed
 - 解决VDA、Chromium花屏问题。
 - 色彩同步实用工具闪退、预览app看图卡死*未解决*。
-## Above Sequoia 正常工作：
+## below Sequoia 正常工作：
 - CPU
 - WIFI
 - 电池
