@@ -1,9 +1,11 @@
 # Hakintosh-XiaoXinAir14Plus2021ACN
 EFI for 小新Air 14 Plus 2021 ACN/IdeaPad 5 Pro 14 ACN
+
 使用前记得自己生成三码
 
 ## 2026.10.30 Release 1.1
 修复声卡问题，麦克风依旧不可用
+
 更新 steve12311/NootedRed 版本
 
 ## 2026.10 Tahoe 26.7 更新
