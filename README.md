@@ -10,6 +10,7 @@ EFI for 小新Air 14 Plus 2021 ACN/IdeaPad 5 Pro 14 ACN
 
 ## 2026.10.31
 BIOS 中将显存提高到1G及以上即可解决卡顿、闪退问题。
+改用 https://github.com/weachy/NootedRed
 
 ## 2026.10.30 Release 1.1
 ~~修复声卡问题，麦克风依旧不可用~~
