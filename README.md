@@ -2,11 +2,17 @@
 EFI for 小新Air 14 Plus 2021 ACN/IdeaPad 5 Pro 14 ACN
 
 使用前记得自己生成三码
+
+## 2026.11.6
+麦克风已修复。见 https://github.com/attcai-cn/AMDMicrophone
+
+感谢原项目 qhuyduong/AMDMicrophone
+
 ## 2026.10.31
 BIOS 中将显存提高到1G及以上即可解决卡顿、闪退问题。
 
 ## 2026.10.30 Release 1.1
-修复声卡问题，麦克风依旧不可用
+~~修复声卡问题，麦克风依旧不可用~~
 
 更新 steve12311/NootedRed 版本
 
